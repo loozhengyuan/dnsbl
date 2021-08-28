@@ -75,4 +75,5 @@ jobs:
               repo: context.repo.repo,
               head: 'blt/build',
               base: 'main',
+              title: 'chore: rebuild blocklist',
             });
