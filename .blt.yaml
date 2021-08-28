@@ -1,3 +1,4 @@
+---
 # yaml-language-server: $schema=https://raw.githubusercontent.com/loozhengyuan/blt/main/schema/v1/schema.json
 version: 1
 kind: dnsbl
@@ -10,20 +11,20 @@ policy:
       - dev1.sq.ys7.com
       - dev2.xy.ys7.com
     includes:
+      # - name: OISD Basic List
+      #   url: https://dbl.oisd.nl/basic/
       - name: Adguard DNS Filter
         url: https://v.firebog.net/hosts/AdguardDNS.txt
       - name: EasyList
         url: https://v.firebog.net/hosts/Easylist.txt
       - name: Admiral List
         url: https://v.firebog.net/hosts/Admiral.txt
-      # - name: OISD Basic List
-      #   url: https://dbl.oisd.nl/basic/
 output:
   destinations:
     - filePath: dist/dnsbl-hosts.txt
       customTemplate: |
         # DNS Blocklist
-        # 
+        #
         # Last updated at {{ .LastUpdated }}
 
         {{ range .Items -}}
