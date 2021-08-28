@@ -58,9 +58,16 @@ jobs:
           git config user.name github-actions
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
 
-      - name: Commit changes
+      - name: Stage changes
         run: |
           git add dist/
+
+      - name: Diff staged changes
+        run: |
+          git diff --staged
+      
+      - name: Commit changes
+        run: |
           git commit -m "chore: rebuild blocklist"
 
       - name: Push commit
