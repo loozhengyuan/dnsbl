@@ -65,3 +65,14 @@ jobs:
       - name: Push commit
         run: |
           git push -f -u origin blt/build
+
+      - name: Create PR
+        uses: actions/github-script@v4
+        with:
+          script: |
+            github.pulls.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              head: 'blt/build',
+              base: 'main',
+            });
