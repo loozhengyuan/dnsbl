@@ -23,7 +23,8 @@ jobs:
       - name: Checkout branch
         uses: actions/checkout@v2
         with:
-          ref: ${{ env.BASE_REF }} # Always checkout from default branch
+          # NOTE: Always checkout from default branch
+          ref: ${{ env.BASE_REF }}
 
       - name: Set up Go
         uses: actions/setup-go@v2
