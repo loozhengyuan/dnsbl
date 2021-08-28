@@ -1,0 +1,69 @@
+name: build
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  build:
+    name: Build blocklist
+    runs-on: ubuntu-latest
+    timeout-minutes: 1
+
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v2
+        with:
+          # NOTE: Always checkout from default branch
+          ref: main
+
+      - name: Set up Go
+        uses: actions/setup-go@v2
+        with:
+          go-version: 1.17
+
+      - name: Cache Go modules
+        uses: actions/cache@v2
+        with:
+          path: ~/go/pkg/mod
+          key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-go-
+
+      - name: Install blt
+        run: |
+          go install \
+            github.com/loozhengyuan/blt/cmd/blt@latest
+
+      - name: Build blocklist
+        run: |
+          blt build .blt.yaml
+
+      - name: Generate checksums
+        run: |
+          sha256sum dist/*.txt > dist/SHA256SUMS
+
+      # NOTE: The commit email address should be the canonical no-reply email address
+      # used by the `github-actions` bot user.
+      # https://api.github.com/users/github-actions%5Bbot%5D
+      # https://github.community/t/github-actions-bot-email-address/17204/6
+      - name: Set up git config
+        run: |
+          git config user.name github-actions
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+
+      - name: Stage changes
+        run: |
+          git add dist/
+
+      - name: Diff staged changes
+        run: |
+          git diff --staged
+      
+      - name: Commit changes
+        run: |
+          git commit -m "chore: rebuild blocklist"
+
+      - name: Push commit
+        run: |
+          git push
