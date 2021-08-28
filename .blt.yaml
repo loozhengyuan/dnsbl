@@ -20,7 +20,7 @@ policy:
       #   url: https://dbl.oisd.nl/basic/
 output:
   destinations:
-    - filePath: dist/hosts/hosts
+    - filePath: dist/dnsbl-hosts.txt
       customTemplate: |
         # DNS Blocklist
         # 
