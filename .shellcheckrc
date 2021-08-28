@@ -1,0 +1,5 @@
+# Configuration file for ShellCheck
+# https://github.com/koalaman/shellcheck/blob/master/shellcheck.1.md#rc-files
+
+# Enables all checks
+enable=all
