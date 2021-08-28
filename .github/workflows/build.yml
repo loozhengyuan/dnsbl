@@ -15,12 +15,15 @@ jobs:
     name: Build blocklist
     runs-on: ubuntu-latest
     timeout-minutes: 3
+    env:
+      HEAD_REF: blt/build
+      BASE_REF: main
 
     steps:
       - name: Checkout branch
         uses: actions/checkout@v2
         with:
-          ref: main # Always checkout from default branch
+          ref: ${{ env.BASE_REF }} # Always checkout from default branch
 
       - name: Set up Go
         uses: actions/setup-go@v2
@@ -59,7 +62,7 @@ jobs:
 
       - name: Create new branch
         run: |
-          git switch -c blt/build
+          git switch -c ${{ env.HEAD_REF }}
 
       - name: Commit changes
         run: |
@@ -77,7 +80,7 @@ jobs:
             github.pulls.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              head: 'blt/build',
-              base: 'main',
+              head: '${{ env.HEAD_REF }}',
+              base: '${{ env.BASE_REF }}',
               title: 'chore: rebuild blocklist',
             });
