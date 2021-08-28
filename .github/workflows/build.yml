@@ -1,0 +1,63 @@
+name: build
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    name: Build blocklist
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v2
+
+      - name: Set up Go
+        uses: actions/setup-go@v2
+
+      - name: Cache Go modules
+        uses: actions/cache@v2
+        with:
+          path: ~/go/pkg/mod
+          key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-go-
+
+      - name: Install blt
+        run: |
+          go install \
+            github.com/loozhengyuan/blt/cmd/blt@latest
+
+      - name: Build blocklist
+        run: |
+          blt build .blt.yaml
+
+      - name: Generate checksums
+        run: |
+          sha256sum dist/*.txt > dist/SHA256SUMS
+
+      - name: Set up git config
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+
+      - name: Create new branch
+        run: |
+          git switch -c blt/build
+
+      - name: Commit changes
+        run: |
+          git add dist/
+          git commit -m "chore: rebuild blocklist"
+
+      - name: Push commit
+        run: |
+          git push -f
