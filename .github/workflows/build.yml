@@ -62,4 +62,4 @@ jobs:
 
       - name: Push commit
         run: |
-          git push -f
+          git push -f -u origin blt/build
