@@ -59,7 +59,7 @@ jobs:
       - name: Diff staged changes
         run: |
           git diff --staged
-      
+
       - name: Commit changes
         run: |
           git commit -m "chore: rebuild blocklist"
