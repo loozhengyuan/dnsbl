@@ -81,7 +81,7 @@ jobs:
             github.pulls.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              head: '${{ env.HEAD_REF }}',
-              base: '${{ env.BASE_REF }}',
-              title: 'chore: rebuild blocklist',
+              head: "${{ env.HEAD_REF }}",
+              base: "${{ env.BASE_REF }}",
+              title: "chore: rebuild blocklist",
             });
