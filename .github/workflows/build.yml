@@ -70,6 +70,6 @@ jobs:
         run: |
           git commit -m "chore: rebuild blocklist"
 
-      # - name: Push commit
-      #   run: |
-      #     git push
+      - name: Push commit
+        run: |
+          git push
