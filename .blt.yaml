@@ -24,8 +24,6 @@ output:
     - filePath: dist/dnsbl-hosts.txt
       customTemplate: |
         # DNS Blocklist
-        #
-        # Last updated at {{ .LastUpdated }}
 
         {{ range .Items -}}
         127.0.0.1   {{ . }}
