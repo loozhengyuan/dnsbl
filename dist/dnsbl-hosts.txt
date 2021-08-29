@@ -1,6 +1,4 @@
 # DNS Blocklist
-#
-# Last updated at 2021-08-29 03:05:12.211723375 +0000 UTC
 
 127.0.0.1   00-gov.cn
 ::1         00-gov.cn
