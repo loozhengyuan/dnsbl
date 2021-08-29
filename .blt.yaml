@@ -21,11 +21,44 @@ policy:
         url: https://v.firebog.net/hosts/Admiral.txt
 output:
   destinations:
+    - filePath: dist/dnsbl-simple.txt
+      customTemplate: |
+        # DNS Blocklist - Simple Format
+        # 
+        # Generated using the blt tool.
+        # https://github.com/loozhengyuan/blt
+
+        {{ range .Items -}}
+        {{ . }}
+        {{ end -}}
     - filePath: dist/dnsbl-hosts.txt
       customTemplate: |
-        # DNS Blocklist
+        # DNS Blocklist - HOSTS Format
+        # 
+        # Generated using the blt tool.
+        # https://github.com/loozhengyuan/blt
 
         {{ range .Items -}}
         127.0.0.1   {{ . }}
         ::1         {{ . }}
+        {{ end -}}
+    - filePath: dist/dnsbl-dnsmasq.txt
+      customTemplate: |
+        # DNS Blocklist - DNSMASQ Format
+        # 
+        # Generated using the blt tool.
+        # https://github.com/loozhengyuan/blt
+
+        {{ range .Items -}}
+        address=/{{ . }}/#
+        {{ end -}}
+    - filePath: dist/dnsbl-adblockplus.txt
+      customTemplate: |
+        ! DNS Blocklist - AdBlock Plus Format
+        ! 
+        ! Generated using the blt tool.
+        ! https://github.com/loozhengyuan/blt
+
+        {{ range .Items -}}
+        ||{{ . }}^
         {{ end -}}
