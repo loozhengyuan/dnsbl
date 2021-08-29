@@ -1,4 +1,7 @@
-# DNS Blocklist
+# DNS Blocklist - HOSTS Format
+# 
+# Generated using the blt tool.
+# https://github.com/loozhengyuan/blt
 
 127.0.0.1   00-gov.cn
 ::1         00-gov.cn
