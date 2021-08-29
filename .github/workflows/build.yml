@@ -60,9 +60,12 @@ jobs:
         run: |
           git diff --staged
 
+      # NOTE: The `git commit` command returns a non-zero exit code if there are no changes
+      # to commit. Using the `git diff-index` command checks if there are changes in the
+      # index (i.e. the staging area).
       - name: Commit changes
         run: |
-          git commit -m "chore: rebuild blocklist"
+          git diff-index --quiet --cached HEAD || git commit -m "chore: rebuild blocklist"
 
       - name: Push commit
         run: |
