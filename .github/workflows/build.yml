@@ -44,12 +44,12 @@ jobs:
           sha256sum dist/*.txt > dist/SHA256SUMS
 
       # NOTE: The commit email address should be the canonical no-reply email address
-      # used by the `github-actions` bot user.
+      # used by the `github-actions[bot]` bot user.
       # https://api.github.com/users/github-actions%5Bbot%5D
       # https://github.community/t/github-actions-bot-email-address/17204/6
       - name: Set up git config
         run: |
-          git config user.name github-actions
+          git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
 
       - name: Stage changes
