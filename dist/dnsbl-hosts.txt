@@ -10041,6 +10041,8 @@
 ::1         api.flocktory.com
 127.0.0.1   api.fusepowered.com
 ::1         api.fusepowered.com
+127.0.0.1   api.fw.tv
+::1         api.fw.tv
 127.0.0.1   api.gameofwhales.com
 ::1         api.gameofwhales.com
 127.0.0.1   api.gimbal.com
@@ -23835,6 +23837,8 @@
 ::1         directcounter.de
 127.0.0.1   directcrm.ru
 ::1         directcrm.ru
+127.0.0.1   directdexchange.com
+::1         directdexchange.com
 127.0.0.1   directleads.com
 ::1         directleads.com
 127.0.0.1   directlnk.org
@@ -49685,6 +49689,8 @@
 ::1         nrzcj.top
 127.0.0.1   ns.rvmkitt.com
 ::1         ns.rvmkitt.com
+127.0.0.1   ns003.com
+::1         ns003.com
 127.0.0.1   ns1.chinayms.com
 ::1         ns1.chinayms.com
 127.0.0.1   ns1.phorm.com
@@ -53959,6 +53965,8 @@
 ::1         play.entretenimientolz.com
 127.0.0.1   play.mix.kinostuff.com
 ::1         play.mix.kinostuff.com
+127.0.0.1   play.springboardplatform.com
+::1         play.springboardplatform.com
 127.0.0.1   play.yo.onvid.club
 ::1         play.yo.onvid.club
 127.0.0.1   play2.biz
@@ -72209,6 +72217,8 @@
 ::1         ucalte.com
 127.0.0.1   ucatedcanc.top
 ::1         ucatedcanc.top
+127.0.0.1   ucconn.live
+::1         ucconn.live
 127.0.0.1   ucdn.website
 ::1         ucdn.website
 127.0.0.1   ucesreferre.club
