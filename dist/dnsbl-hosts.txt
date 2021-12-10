@@ -23647,6 +23647,8 @@
 ::1         dationxperi.club
 127.0.0.1   datum.blockchair.io
 ::1         datum.blockchair.io
+127.0.0.1   datum0.blockchair.io
+::1         datum0.blockchair.io
 127.0.0.1   datvantage.com
 ::1         datvantage.com
 127.0.0.1   daugloon.net
@@ -26559,6 +26561,8 @@
 ::1         dyuadask.com
 127.0.0.1   dyv1bugovvq1g.cloudfront.net
 ::1         dyv1bugovvq1g.cloudfront.net
+127.0.0.1   dywolfer.de
+::1         dywolfer.de
 127.0.0.1   dyx0878.cn
 ::1         dyx0878.cn
 127.0.0.1   dyzha.com
@@ -34087,8 +34091,6 @@
 ::1         gpcdreunite.casa
 127.0.0.1   gpjph.com
 ::1         gpjph.com
-127.0.0.1   gpm.samsungqbe.com
-::1         gpm.samsungqbe.com
 127.0.0.1   gpneofgeo.com
 ::1         gpneofgeo.com
 127.0.0.1   gpr.hu
@@ -55955,6 +55957,8 @@
 ::1         pics.firstload.de
 127.0.0.1   pics.xgo-img.com.cn
 ::1         pics.xgo-img.com.cn
+127.0.0.1   pics99.cumlouder.com
+::1         pics99.cumlouder.com
 127.0.0.1   picsti.com
 ::1         picsti.com
 127.0.0.1   pictela.net
