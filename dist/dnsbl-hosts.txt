@@ -23741,8 +23741,6 @@
 ::1         datinggold.com
 127.0.0.1   dationxperi.club
 ::1         dationxperi.club
-127.0.0.1   datum.blockchair.io
-::1         datum.blockchair.io
 127.0.0.1   datum0.blockchair.io
 ::1         datum0.blockchair.io
 127.0.0.1   datvantage.com
@@ -62709,6 +62707,8 @@
 ::1         ronoutom.net
 127.0.0.1   rontar.com
 ::1         rontar.com
+127.0.0.1   rontent.pouvideo.cc
+::1         rontent.pouvideo.cc
 127.0.0.1   rontent.powvibeo.cc
 ::1         rontent.powvibeo.cc
 127.0.0.1   roofrelation.com
