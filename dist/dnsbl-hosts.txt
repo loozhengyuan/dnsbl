@@ -17085,6 +17085,8 @@
 ::1         c.bigmir.net
 127.0.0.1   c.caijing123.com
 ::1         c.caijing123.com
+127.0.0.1   c.cdngeek.com
+::1         c.cdngeek.com
 127.0.0.1   c.cpa5.ru
 ::1         c.cpa5.ru
 127.0.0.1   c.cpa6.ru
