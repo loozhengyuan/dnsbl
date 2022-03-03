@@ -1,0 +1,46 @@
+name: test
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  test-yaml:
+    name: Run yaml tests
+    runs-on: ubuntu-latest
+    timeout-minutes: 1
+
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v2
+
+      - name: Show yamllint version
+        run: |
+          yamllint --version
+
+      - name: Run yamllint
+        run: |
+          yamllint \
+            --format standard \
+            .
+
+  test-shell:
+    name: Run shell tests
+    runs-on: ubuntu-latest
+    timeout-minutes: 1
+
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v2
+
+      - name: Show shellcheck version
+        run: |
+          shellcheck --version
+
+      - name: Run shellcheck
+        run: |
+          shellcheck **/*.sh
