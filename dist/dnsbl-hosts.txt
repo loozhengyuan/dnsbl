@@ -195,6 +195,8 @@
 ::1         0myksyhuuz.cn
 127.0.0.1   0oaqgsk54hm5.com
 ::1         0oaqgsk54hm5.com
+127.0.0.1   0p1ohj2f5f.ru
+::1         0p1ohj2f5f.ru
 127.0.0.1   0pixl.com
 ::1         0pixl.com
 127.0.0.1   0ra5eylno4zs.com
@@ -1009,6 +1011,8 @@
 ::1         293870.com
 127.0.0.1   297772.com
 ::1         297772.com
+127.0.0.1   2999.store
+::1         2999.store
 127.0.0.1   29ae58661b9c7178.com
 ::1         29ae58661b9c7178.com
 127.0.0.1   29d65cebb82ef9f.com
@@ -1487,6 +1491,8 @@
 ::1         3mfm7jef91.ru
 127.0.0.1   3mtr.ru
 ::1         3mtr.ru
+127.0.0.1   3myad.com
+::1         3myad.com
 127.0.0.1   3ng6p6m0.de
 ::1         3ng6p6m0.de
 127.0.0.1   3p-geo.yahoo.com
@@ -2371,6 +2377,8 @@
 ::1         7a6421ee67fdb0f660.com
 127.0.0.1   7a864ece03.com
 ::1         7a864ece03.com
+127.0.0.1   7ad.media
+::1         7ad.media
 127.0.0.1   7adea8620f.com
 ::1         7adea8620f.com
 127.0.0.1   7anfpatlo8lwmb.com
@@ -2523,6 +2531,8 @@
 ::1         81035ddbf4.32c5637f3c.com
 127.0.0.1   810f3f9dde63ae3.com
 ::1         810f3f9dde63ae3.com
+127.0.0.1   812633.com
+::1         812633.com
 127.0.0.1   8131.qizhihaotian.cn
 ::1         8131.qizhihaotian.cn
 127.0.0.1   815ff.com
@@ -2797,6 +2807,8 @@
 ::1         924e60106cd9d0e.com
 127.0.0.1   92ec94d51076357.com
 ::1         92ec94d51076357.com
+127.0.0.1   92lottery.com
+::1         92lottery.com
 127.0.0.1   92mile.com
 ::1         92mile.com
 127.0.0.1   92qj1u.cn
@@ -4827,6 +4839,8 @@
 ::1         adbuyer.com
 127.0.0.1   adbuzz.com.tr
 ::1         adbuzz.com.tr
+127.0.0.1   adc-js.nine.com.au
+::1         adc-js.nine.com.au
 127.0.0.1   adc-serv.net
 ::1         adc-serv.net
 127.0.0.1   adc.9news.com.au
@@ -6427,6 +6441,8 @@
 ::1         ads.vlr.vn
 127.0.0.1   ads.vovlive.vn
 ::1         ads.vovlive.vn
+127.0.0.1   ads.web.tr
+::1         ads.web.tr
 127.0.0.1   ads.xedoisong.vn
 ::1         ads.xedoisong.vn
 127.0.0.1   ads.xemphimso.com
@@ -11691,6 +11707,8 @@
 ::1         atexceede.com
 127.0.0.1   atgafl.com
 ::1         atgafl.com
+127.0.0.1   athena.api.kwalee.com
+::1         athena.api.kwalee.com
 127.0.0.1   athenainstitute.biz
 ::1         athenainstitute.biz
 127.0.0.1   athercompet.club
@@ -11729,6 +11747,8 @@
 ::1         atlas1.krone.at
 127.0.0.1   atlassolutions.com
 ::1         atlassolutions.com
+127.0.0.1   atljkcq.cn
+::1         atljkcq.cn
 127.0.0.1   atm.youku.com
 ::1         atm.youku.com
 127.0.0.1   atmalinks.com
@@ -15233,6 +15253,8 @@
 ::1         bjark.com.cn
 127.0.0.1   bjcathay.com
 ::1         bjcathay.com
+127.0.0.1   bjcwwsc.xyz
+::1         bjcwwsc.xyz
 127.0.0.1   bjdianyue.com
 ::1         bjdianyue.com
 127.0.0.1   bjdsfgg.pro
@@ -18243,6 +18265,8 @@
 ::1         cdn.doke.app
 127.0.0.1   cdn.driveback.ru
 ::1         cdn.driveback.ru
+127.0.0.1   cdn.haocaa.com
+::1         cdn.haocaa.com
 127.0.0.1   cdn.hiido.cn
 ::1         cdn.hiido.cn
 127.0.0.1   cdn.hiperadverts.com
@@ -18797,6 +18821,8 @@
 ::1         chaoge.club
 127.0.0.1   chaogej.com
 ::1         chaogej.com
+127.0.0.1   chaojituoke.club
+::1         chaojituoke.club
 127.0.0.1   chaoseskhedahs.com
 ::1         chaoseskhedahs.com
 127.0.0.1   chaoyi4.com
@@ -20389,8 +20415,6 @@
 ::1         cnzz.com.so
 127.0.0.1   cnzz.net
 ::1         cnzz.net
-127.0.0.1   cnzz.yifenghuyu.com
-::1         cnzz.yifenghuyu.com
 127.0.0.1   co.akisinn.info
 ::1         co.akisinn.info
 127.0.0.1   co.dewrain.life
@@ -21179,6 +21203,8 @@
 ::1         connexity.net
 127.0.0.1   connexplace.com
 ::1         connexplace.com
+127.0.0.1   connext-cdn.azureedge.net
+::1         connext-cdn.azureedge.net
 127.0.0.1   connextra.com
 ::1         connextra.com
 127.0.0.1   conqueredcousin.com
@@ -21555,6 +21581,8 @@
 ::1         cornerbut.com
 127.0.0.1   cornplus.cn
 ::1         cornplus.cn
+127.0.0.1   corona999.com
+::1         corona999.com
 127.0.0.1   corpore.ru
 ::1         corpore.ru
 127.0.0.1   correctchaos.com
@@ -23547,6 +23575,8 @@
 ::1         d26adrx9c3n0mq.cloudfront.net
 127.0.0.1   d26c6kzavi5zwd.cloudfront.net
 ::1         d26c6kzavi5zwd.cloudfront.net
+127.0.0.1   d26yfyk0ym2k1u.cloudfront.net
+::1         d26yfyk0ym2k1u.cloudfront.net
 127.0.0.1   d27gtglsu4f4y2.cloudfront.net
 ::1         d27gtglsu4f4y2.cloudfront.net
 127.0.0.1   d27qffx6rqb3qm.cloudfront.net
@@ -25643,6 +25673,8 @@
 ::1         dhilyjdw.com
 127.0.0.1   dhipc.cn
 ::1         dhipc.cn
+127.0.0.1   dhjrjqgclb.com
+::1         dhjrjqgclb.com
 127.0.0.1   dhkwxpzgvqgr.com
 ::1         dhkwxpzgvqgr.com
 127.0.0.1   dhlmy.com
@@ -27533,6 +27565,8 @@
 ::1         duusuu.com
 127.0.0.1   duxumpou.com
 ::1         duxumpou.com
+127.0.0.1   duyixpy.top
+::1         duyixpy.top
 127.0.0.1   duyousxtd.com
 ::1         duyousxtd.com
 127.0.0.1   duzt6rhr7wo8p.cloudfront.net
@@ -28675,6 +28709,8 @@
 ::1         egreephu.com
 127.0.0.1   egroacho.com
 ::1         egroacho.com
+127.0.0.1   eguo.info
+::1         eguo.info
 127.0.0.1   egyptmiane3mao7uw.com
 ::1         egyptmiane3mao7uw.com
 127.0.0.1   ehfgifjjhdaejjajacj.ru
@@ -30081,8 +30117,6 @@
 ::1         events-collector-api.viacom.tech
 127.0.0.1   events-collector.spot.im
 ::1         events-collector.spot.im
-127.0.0.1   events-service.coinbase.com
-::1         events-service.coinbase.com
 127.0.0.1   events.air.tv
 ::1         events.air.tv
 127.0.0.1   events.apester.com
@@ -30169,6 +30203,8 @@
 ::1         events.turbosquid.com
 127.0.0.1   events.tvtime.com
 ::1         events.tvtime.com
+127.0.0.1   events.virtusize.jp
+::1         events.virtusize.jp
 127.0.0.1   events.whisk.com
 ::1         events.whisk.com
 127.0.0.1   events.yourcx.io
@@ -30695,6 +30731,8 @@
 ::1         f853150605ccb.com
 127.0.0.1   f87b88d3649456.com
 ::1         f87b88d3649456.com
+127.0.0.1   f8bet0.com
+::1         f8bet0.com
 127.0.0.1   f8ij9.life
 ::1         f8ij9.life
 127.0.0.1   f92j5.com
@@ -31111,6 +31149,8 @@
 ::1         favoriteruffle.com
 127.0.0.1   favourableencampmentdecency.com
 ::1         favourableencampmentdecency.com
+127.0.0.1   favourablequickdelve.com
+::1         favourablequickdelve.com
 127.0.0.1   favouritesuitable.com
 ::1         favouritesuitable.com
 127.0.0.1   favourmiles.com
@@ -33009,6 +33049,8 @@
 ::1         fstrk.net
 127.0.0.1   fsxzbs.cn
 ::1         fsxzbs.cn
+127.0.0.1   fsyc.xyz
+::1         fsyc.xyz
 127.0.0.1   fsyzcs.com
 ::1         fsyzcs.com
 127.0.0.1   fszhxd.com
@@ -35551,6 +35593,8 @@
 ::1         gooo.al
 127.0.0.1   gooods4you.com
 ::1         gooods4you.com
+127.0.0.1   gooooodle.com
+::1         gooooodle.com
 127.0.0.1   goosebomb.com
 ::1         goosebomb.com
 127.0.0.1   goosecontradiction.com
@@ -36929,6 +36973,8 @@
 ::1         haojun.shop
 127.0.0.1   haokan3.cn
 ::1         haokan3.cn
+127.0.0.1   haokoubei.top
+::1         haokoubei.top
 127.0.0.1   haolew.com
 ::1         haolew.com
 127.0.0.1   haomaiweb.com
@@ -37319,10 +37365,14 @@
 ::1         he7ll.com
 127.0.0.1   heaamajo.one
 ::1         heaamajo.one
+127.0.0.1   head-clickfusion.com
+::1         head-clickfusion.com
 127.0.0.1   headbidder.net
 ::1         headbidder.net
 127.0.0.1   headedtamhemp.com
 ::1         headedtamhemp.com
+127.0.0.1   headerbidding.services
+::1         headerbidding.services
 127.0.0.1   headerbiddr.net
 ::1         headerbiddr.net
 127.0.0.1   headerlift.com
@@ -38851,8 +38901,6 @@
 ::1         hscta.net
 127.0.0.1   hsdianqi.vip
 ::1         hsdianqi.vip
-127.0.0.1   hsdn.org
-::1         hsdn.org
 127.0.0.1   hsh51nvkrv.com
 ::1         hsh51nvkrv.com
 127.0.0.1   hskj.net
@@ -39859,6 +39907,8 @@
 ::1         ifhei9zzyu2r.ru
 127.0.0.1   ifil.shop
 ::1         ifil.shop
+127.0.0.1   ifil.store
+::1         ifil.store
 127.0.0.1   ifjyo.com
 ::1         ifjyo.com
 127.0.0.1   ifmnwi.club
@@ -39915,6 +39965,8 @@
 ::1         igrid.org
 127.0.0.1   igtdovf.pro
 ::1         igtdovf.pro
+127.0.0.1   igusoft.com
+::1         igusoft.com
 127.0.0.1   igvuw.com
 ::1         igvuw.com
 127.0.0.1   igvxnenqgu.com
@@ -41765,6 +41817,8 @@
 ::1         itcameruptr.com
 127.0.0.1   itcgin.net
 ::1         itcgin.net
+127.0.0.1   itchaxun.cn
+::1         itchaxun.cn
 127.0.0.1   itchess.cn
 ::1         itchess.cn
 127.0.0.1   itchimpish.com
@@ -42287,6 +42341,8 @@
 ::1         jczzjx.com
 127.0.0.1   jd01estvpr.club
 ::1         jd01estvpr.club
+127.0.0.1   jdb66.vip
+::1         jdb66.vip
 127.0.0.1   jdbzurmhiixqm.com
 ::1         jdbzurmhiixqm.com
 127.0.0.1   jdd01.198game.net
@@ -42843,6 +42899,8 @@
 ::1         jlwljym.com
 127.0.0.1   jlwsw.top
 ::1         jlwsw.top
+127.0.0.1   jlxsgk.com
+::1         jlxsgk.com
 127.0.0.1   jlxzt.com
 ::1         jlxzt.com
 127.0.0.1   jly24aw29n5m-a.akamaihd.net
@@ -46575,6 +46633,8 @@
 ::1         limberkilnman.cam
 127.0.0.1   limbloyal.com
 ::1         limbloyal.com
+127.0.0.1   limdarwin.top
+::1         limdarwin.top
 127.0.0.1   limelightcopper.com
 ::1         limelightcopper.com
 127.0.0.1   limelightdecent.com
@@ -47101,6 +47161,8 @@
 ::1         lm245.com
 127.0.0.1   lm335.com
 ::1         lm335.com
+127.0.0.1   lm336.com
+::1         lm336.com
 127.0.0.1   lm342.com
 ::1         lm342.com
 127.0.0.1   lm343.com
@@ -48065,6 +48127,8 @@
 ::1         lowseelan.com
 127.0.0.1   lowtyroguer.com
 ::1         lowtyroguer.com
+127.0.0.1   lowtyruntor.com
+::1         lowtyruntor.com
 127.0.0.1   loxbeelid.com
 ::1         loxbeelid.com
 127.0.0.1   loxedchazan.com
@@ -48953,6 +49017,8 @@
 ::1         magpiedbareges.com
 127.0.0.1   magrie.pw
 ::1         magrie.pw
+127.0.0.1   mahao.xyz
+::1         mahao.xyz
 127.0.0.1   mahaphanin.ru
 ::1         mahaphanin.ru
 127.0.0.1   mahidevrat.com
@@ -49179,6 +49245,8 @@
 ::1         mao1.jsnovel.com
 127.0.0.1   maobujie.com
 ::1         maobujie.com
+127.0.0.1   maodz.cn
+::1         maodz.cn
 127.0.0.1   maoxilucai.cn
 ::1         maoxilucai.cn
 127.0.0.1   maoyumao.net
@@ -49543,6 +49611,8 @@
 ::1         mayhemabjure.com
 127.0.0.1   mayie.xyz
 ::1         mayie.xyz
+127.0.0.1   mayif.xyz
+::1         mayif.xyz
 127.0.0.1   maymooth-stopic.com
 ::1         maymooth-stopic.com
 127.0.0.1   mayordiminution.com
@@ -50761,6 +50831,8 @@
 ::1         mignished-sility.com
 127.0.0.1   mignoops.net
 ::1         mignoops.net
+127.0.0.1   mikellli.com
+::1         mikellli.com
 127.0.0.1   mikla.site
 ::1         mikla.site
 127.0.0.1   mikrairs.com
@@ -50813,6 +50885,8 @@
 ::1         milparota.com
 127.0.0.1   miltauru.net
 ::1         miltauru.net
+127.0.0.1   miludata.com
+::1         miludata.com
 127.0.0.1   mimg.hicooer.cn
 ::1         mimg.hicooer.cn
 127.0.0.1   mimgoal.com
@@ -54427,6 +54501,8 @@
 ::1         nodowd.com
 127.0.0.1   nodrmcxjevtuc.xyz
 ::1         nodrmcxjevtuc.xyz
+127.0.0.1   noesbsnt.com
+::1         noesbsnt.com
 127.0.0.1   nofejectontrab.info
 ::1         nofejectontrab.info
 127.0.0.1   noflake-aggregator-http.narvar.com
@@ -57111,6 +57187,8 @@
 ::1         ovulgmeo.com
 127.0.0.1   ovustav.ru
 ::1         ovustav.ru
+127.0.0.1   ovwbobnyy.com
+::1         ovwbobnyy.com
 127.0.0.1   ovxeeiuhjoenoeb.xyz
 ::1         ovxeeiuhjoenoeb.xyz
 127.0.0.1   owap.su
@@ -62587,6 +62665,8 @@
 ::1         qewuipkgtpotyb.com
 127.0.0.1   qeyps.com
 ::1         qeyps.com
+127.0.0.1   qfcdgy.cn
+::1         qfcdgy.cn
 127.0.0.1   qfcrjdrp.com
 ::1         qfcrjdrp.com
 127.0.0.1   qfdn3gyfbs.com
@@ -62751,6 +62831,8 @@
 ::1         qinqiaotrade.com
 127.0.0.1   qinvaris.com
 ::1         qinvaris.com
+127.0.0.1   qinzhihao.com
+::1         qinzhihao.com
 127.0.0.1   qinzigenjudi.com
 ::1         qinzigenjudi.com
 127.0.0.1   qiqipower.com
@@ -65839,6 +65921,8 @@
 ::1         rongdingkeji.cn
 127.0.0.1   rongdingwl.cn
 ::1         rongdingwl.cn
+127.0.0.1   rongedui.com
+::1         rongedui.com
 127.0.0.1   rongeundhis.ru
 ::1         rongeundhis.ru
 127.0.0.1   rongnews.com
@@ -65911,6 +65995,8 @@
 ::1         rossinfonews.ru
 127.0.0.1   rossinfonewsrf.ru
 ::1         rossinfonewsrf.ru
+127.0.0.1   rossoad.com
+::1         rossoad.com
 127.0.0.1   rosteldicycle.cam
 ::1         rosteldicycle.cam
 127.0.0.1   rosyteapotgabble.com
@@ -68693,6 +68779,8 @@
 ::1         shawlyni.name
 127.0.0.1   shawuh2a8nyam09.com
 ::1         shawuh2a8nyam09.com
+127.0.0.1   shbet0.com
+::1         shbet0.com
 127.0.0.1   shbmymhkwsaskje.xyz
 ::1         shbmymhkwsaskje.xyz
 127.0.0.1   shcy3.com
@@ -68757,6 +68845,8 @@
 ::1         shenyunkeji.com
 127.0.0.1   shepeekr.net
 ::1         shepeekr.net
+127.0.0.1   shequn.online
+::1         shequn.online
 127.0.0.1   sherlockseries.ru
 ::1         sherlockseries.ru
 127.0.0.1   shermore.info
@@ -68787,6 +68877,8 @@
 ::1         shifoagn.uk
 127.0.0.1   shiftintercoursebridge.com
 ::1         shiftintercoursebridge.com
+127.0.0.1   shigl.top
+::1         shigl.top
 127.0.0.1   shiguangyx.cn
 ::1         shiguangyx.cn
 127.0.0.1   shihoult.com
@@ -69289,6 +69381,8 @@
 ::1         simpleview.it
 127.0.0.1   simpli.fi
 ::1         simpli.fi
+127.0.0.1   simpliftsbefore.info
+::1         simpliftsbefore.info
 127.0.0.1   simplisticstem.com
 ::1         simplisticstem.com
 127.0.0.1   simplycast.us
@@ -70033,6 +70127,8 @@
 ::1         smimarket.com
 127.0.0.1   sminewsnet.ru
 ::1         sminewsnet.ru
+127.0.0.1   smised.com
+::1         smised.com
 127.0.0.1   smitionsory.co
 ::1         smitionsory.co
 127.0.0.1   smjdkmvhar.com
@@ -71573,6 +71669,8 @@
 ::1         ssgg.chazidian.com
 127.0.0.1   ssjxwlkj.com
 ::1         ssjxwlkj.com
+127.0.0.1   ssjy.shop
+::1         ssjy.shop
 127.0.0.1   sskmnews.pro
 ::1         sskmnews.pro
 127.0.0.1   ssl-google-analytics.l.google.com
@@ -74501,6 +74599,8 @@
 ::1         taobc.com
 127.0.0.1   taobso.cn
 ::1         taobso.cn
+127.0.0.1   taocangjituan.com
+::1         taocangjituan.com
 127.0.0.1   taoguanda.com
 ::1         taoguanda.com
 127.0.0.1   taoguohe.com
@@ -75031,6 +75131,8 @@
 ::1         telemetric.dk
 127.0.0.1   telemetrics.klaviyo.com
 ::1         telemetrics.klaviyo.com
+127.0.0.1   telemetry-in.battle.net
+::1         telemetry-in.battle.net
 127.0.0.1   telemetry.allrecipes.com
 ::1         telemetry.allrecipes.com
 127.0.0.1   telemetry.api.playstation.com
@@ -75039,6 +75141,8 @@
 ::1         telemetry.api.swiftkey.com
 127.0.0.1   telemetry.art19.com
 ::1         telemetry.art19.com
+127.0.0.1   telemetry.battle.net
+::1         telemetry.battle.net
 127.0.0.1   telemetry.jivosite.com
 ::1         telemetry.jivosite.com
 127.0.0.1   telemetry.malwarebytes.com
@@ -76657,6 +76761,8 @@
 ::1         top.gamesby.net
 127.0.0.1   top.gigmir.net
 ::1         top.gigmir.net
+127.0.0.1   top.hsdn.org
+::1         top.hsdn.org
 127.0.0.1   top.list.ru
 ::1         top.list.ru
 127.0.0.1   top.lv
@@ -76695,10 +76801,14 @@
 ::1         top88.club
 127.0.0.1   top88.fun
 ::1         top88.fun
+127.0.0.1   top88.me
+::1         top88.me
 127.0.0.1   top88.uk
 ::1         top88.uk
 127.0.0.1   top88.us
 ::1         top88.us
+127.0.0.1   top88.vn
+::1         top88.vn
 127.0.0.1   topacity.info
 ::1         topacity.info
 127.0.0.1   topad.mobi
@@ -77385,6 +77495,8 @@
 ::1         track.spots.im
 127.0.0.1   track.strife.com
 ::1         track.strife.com
+127.0.0.1   track.swaptrap.live
+::1         track.swaptrap.live
 127.0.0.1   track.tcppu.com
 ::1         track.tcppu.com
 127.0.0.1   track.td3x.com
@@ -78621,6 +78733,8 @@
 ::1         trinityslantsummer.com
 127.0.0.1   trinylium.com
 ::1         trinylium.com
+127.0.0.1   triplewhale-pixel.web.app
+::1         triplewhale-pixel.web.app
 127.0.0.1   trippealbirthda.info
 ::1         trippealbirthda.info
 127.0.0.1   tripsbooth.com
@@ -79005,6 +79119,8 @@
 ::1         ttffhe.top
 127.0.0.1   ttgmjfgldgv9ed10.com
 ::1         ttgmjfgldgv9ed10.com
+127.0.0.1   ttlxieoguhtrs.com
+::1         ttlxieoguhtrs.com
 127.0.0.1   ttmaim.com
 ::1         ttmaim.com
 127.0.0.1   ttmetrics.jcpenney.com
@@ -79489,6 +79605,8 @@
 ::1         tyxo.com
 127.0.0.1   tz284.com
 ::1         tz284.com
+127.0.0.1   tz88.store
+::1         tz88.store
 127.0.0.1   tzfafzmooqum.com
 ::1         tzfafzmooqum.com
 127.0.0.1   tzh019.cn
@@ -80889,6 +81007,8 @@
 ::1         utteroccupied.com
 127.0.0.1   uttium.com
 ::1         uttium.com
+127.0.0.1   utuypsohjvuf.com
+::1         utuypsohjvuf.com
 127.0.0.1   utxdtismojqk.xyz
 ::1         utxdtismojqk.xyz
 127.0.0.1   uu1.3gu.com
@@ -80979,6 +81099,8 @@
 ::1         uytestion.info
 127.0.0.1   uyueread.com
 ::1         uyueread.com
+127.0.0.1   uywmpewouyqv.com
+::1         uywmpewouyqv.com
 127.0.0.1   uz-analysis.akamaized.net
 ::1         uz-analysis.akamaized.net
 127.0.0.1   uz4cb.cn
@@ -82483,6 +82605,8 @@
 ::1         vnq73.com
 127.0.0.1   vnq8.bet
 ::1         vnq8.bet
+127.0.0.1   vnq8.com
+::1         vnq8.com
 127.0.0.1   vnr81.com
 ::1         vnr81.com
 127.0.0.1   vnr82.com
@@ -82747,6 +82871,8 @@
 ::1         vrmynha.cn
 127.0.0.1   vrptgslcxm.com
 ::1         vrptgslcxm.com
+127.0.0.1   vrrzmvb.cn
+::1         vrrzmvb.cn
 127.0.0.1   vrsshsdaa.com
 ::1         vrsshsdaa.com
 127.0.0.1   vrt.news
@@ -84059,6 +84185,8 @@
 ::1         wenqiche.com
 127.0.0.1   wenqixiefu.cn
 ::1         wenqixiefu.cn
+127.0.0.1   wenrunyu.com
+::1         wenrunyu.com
 127.0.0.1   wensoono.com
 ::1         wensoono.com
 127.0.0.1   wentwidespread.com
@@ -84109,6 +84237,8 @@
 ::1         wevjjiolpse.mobi
 127.0.0.1   wew.dushiwenxue.net
 ::1         wew.dushiwenxue.net
+127.0.0.1   weway.club
+::1         weway.club
 127.0.0.1   wewon.to
 ::1         wewon.to
 127.0.0.1   wexesz.com
@@ -85477,6 +85607,8 @@
 ::1         wuliao.chzsport.cn
 127.0.0.1   wuliao.juqingba.cn
 ::1         wuliao.juqingba.cn
+127.0.0.1   wulongqiyi.com
+::1         wulongqiyi.com
 127.0.0.1   wundercounter.com
 ::1         wundercounter.com
 127.0.0.1   wunderloop.net
@@ -87559,6 +87691,10 @@
 ::1         yhig.info
 127.0.0.1   yhjzg.cn
 ::1         yhjzg.cn
+127.0.0.1   yhkiain.cn
+::1         yhkiain.cn
+127.0.0.1   yhkt.online
+::1         yhkt.online
 127.0.0.1   yhmceakev.com
 ::1         yhmceakev.com
 127.0.0.1   yhsmk.com
@@ -87635,6 +87771,8 @@
 ::1         yieldx.com
 127.0.0.1   yierheng.top
 ::1         yierheng.top
+127.0.0.1   yifenghuyu.com
+::1         yifenghuyu.com
 127.0.0.1   yifuffbypvps.xyz
 ::1         yifuffbypvps.xyz
 127.0.0.1   yigao.com
@@ -89129,6 +89267,8 @@
 ::1         zhekoudajie.com
 127.0.0.1   zhemaijs.net
 ::1         zhemaijs.net
+127.0.0.1   zhengxiaoliu.top
+::1         zhengxiaoliu.top
 127.0.0.1   zhengyejixie.com
 ::1         zhengyejixie.com
 127.0.0.1   zhengyuanguojimc.com
