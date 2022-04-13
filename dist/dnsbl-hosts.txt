@@ -25995,8 +25995,6 @@
 ::1         diamondtraff.com
 127.0.0.1   diamongs.com
 ::1         diamongs.com
-127.0.0.1   diampokusy.com
-::1         diampokusy.com
 127.0.0.1   diandongchetoukui.com
 ::1         diandongchetoukui.com
 127.0.0.1   diangezan.me
@@ -45705,6 +45703,8 @@
 ::1         kt220.com
 127.0.0.1   kt5850pjz0.com
 ::1         kt5850pjz0.com
+127.0.0.1   kta.etherscan.com
+::1         kta.etherscan.com
 127.0.0.1   ktautdkiixlunl.com
 ::1         ktautdkiixlunl.com
 127.0.0.1   ktbhboeaqw.com
@@ -74563,8 +74563,6 @@
 ::1         suxhap.com
 127.0.0.1   suzanne.pro
 ::1         suzanne.pro
-127.0.0.1   suzihaza.com
-::1         suzihaza.com
 127.0.0.1   sv-api-event.headlines.pw
 ::1         sv-api-event.headlines.pw
 127.0.0.1   sv-api-lottery.headlines.pw
