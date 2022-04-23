@@ -10457,6 +10457,8 @@
 ::1         anelexpres.club
 127.0.0.1   anerqdd.ga
 ::1         anerqdd.ga
+127.0.0.1   anet.tradedoubler.com
+::1         anet.tradedoubler.com
 127.0.0.1   anevod.ru
 ::1         anevod.ru
 127.0.0.1   anews.cc
@@ -18941,8 +18943,6 @@
 ::1         centauruspopyou.com
 127.0.0.1   centent.slreamplay.cc
 ::1         centent.slreamplay.cc
-127.0.0.1   centent.steampiay.cc
-::1         centent.steampiay.cc
 127.0.0.1   centent.steanplay.cc
 ::1         centent.steanplay.cc
 127.0.0.1   centent.stemplay.cc
@@ -64287,8 +64287,6 @@
 ::1         qirnz.com
 127.0.0.1   qiruidea.com
 ::1         qiruidea.com
-127.0.0.1   qisemrvldy.com
-::1         qisemrvldy.com
 127.0.0.1   qiuchuanling.cn
 ::1         qiuchuanling.cn
 127.0.0.1   qivaiw.com
@@ -80807,8 +80805,6 @@
 ::1         tsdlp.com
 127.0.0.1   tsds.tech
 ::1         tsds.tech
-127.0.0.1   tsgfsocco.com
-::1         tsgfsocco.com
 127.0.0.1   tsgyg.cn
 ::1         tsgyg.cn
 127.0.0.1   tsia1114.top
@@ -81273,8 +81269,6 @@
 ::1         twuekgl.cn
 127.0.0.1   twwfxwgvlnc.com
 ::1         twwfxwgvlnc.com
-127.0.0.1   twwkrcec.com
-::1         twwkrcec.com
 127.0.0.1   twzui6.com
 ::1         twzui6.com
 127.0.0.1   tx2.ru
@@ -87369,6 +87363,8 @@
 ::1         wqssibpfobsi.xyz
 127.0.0.1   wr.yiyouliao.com
 ::1         wr.yiyouliao.com
+127.0.0.1   wrap.tradedoubler.com
+::1         wrap.tradedoubler.com
 127.0.0.1   wrapper.lemde.fr
 ::1         wrapper.lemde.fr
 127.0.0.1   wrapstretch.com
