@@ -83769,6 +83769,8 @@
 ::1         video-play.ru
 127.0.0.1   video-serve.com
 ::1         video-serve.com
+127.0.0.1   video-streaming.ezoic.com
+::1         video-streaming.ezoic.com
 127.0.0.1   video.flashiest-vacation.win
 ::1         video.flashiest-vacation.win
 127.0.0.1   video.market-place.su
