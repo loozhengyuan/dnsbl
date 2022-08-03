@@ -3847,6 +3847,8 @@
 ::1         abc.hkepc.com
 127.0.0.1   abc.hkepc.net
 ::1         abc.hkepc.net
+127.0.0.1   abc.manga9.co
+::1         abc.manga9.co
 127.0.0.1   abc.pema.cl
 ::1         abc.pema.cl
 127.0.0.1   abc.rwpt.top
@@ -13047,6 +13049,8 @@
 ::1         b.grvcdn.com
 127.0.0.1   b.huffingtonpost.com
 ::1         b.huffingtonpost.com
+127.0.0.1   b.isbnrs.com
+::1         b.isbnrs.com
 127.0.0.1   b.kakoysegodnyaprazdnik.ru
 ::1         b.kakoysegodnyaprazdnik.ru
 127.0.0.1   b.kouke5.com
@@ -24379,8 +24383,6 @@
 ::1         d1z9vm58yath60.cloudfront.net
 127.0.0.1   d1zfhhmz4n1jvq.cloudfront.net
 ::1         d1zfhhmz4n1jvq.cloudfront.net
-127.0.0.1   d1zgderxoe1a.cloudfront.net
-::1         d1zgderxoe1a.cloudfront.net
 127.0.0.1   d1zw85ny9dtn37.cloudfront.net
 ::1         d1zw85ny9dtn37.cloudfront.net
 127.0.0.1   d2-apps.net
@@ -35081,6 +35083,8 @@
 ::1         garibamarmose.com
 127.0.0.1   garlandnaninflict.com
 ::1         garlandnaninflict.com
+127.0.0.1   garmentsdraught.com
+::1         garmentsdraught.com
 127.0.0.1   garnetsnails.com
 ::1         garnetsnails.com
 127.0.0.1   garoagre.com
@@ -43113,8 +43117,6 @@
 ::1         is.sabah.com.tr
 127.0.0.1   is0v39c.cn
 ::1         is0v39c.cn
-127.0.0.1   isbnrs.com
-::1         isbnrs.com
 127.0.0.1   isboost.co.jp
 ::1         isboost.co.jp
 127.0.0.1   iscosta.ru
@@ -45425,6 +45427,8 @@
 ::1         kalooga.com
 127.0.0.1   kalstats.kaltura.com
 ::1         kalstats.kaltura.com
+127.0.0.1   kamak-mab.com
+::1         kamak-mab.com
 127.0.0.1   kameleoon.com
 ::1         kameleoon.com
 127.0.0.1   kameleoon.eu
@@ -59679,6 +59683,8 @@
 ::1         particularaudience.com
 127.0.0.1   partiesrelyfoliage.com
 ::1         partiesrelyfoliage.com
+127.0.0.1   partion-ricism.xyz
+::1         partion-ricism.xyz
 127.0.0.1   partner-ads.com
 ::1         partner-ads.com
 127.0.0.1   partner-earning.com
@@ -62893,6 +62899,8 @@
 ::1         prod.html5-ads.vk-apps.com
 127.0.0.1   prod.untd.com
 ::1         prod.untd.com
+127.0.0.1   prodaddkarl.com
+::1         prodaddkarl.com
 127.0.0.1   proddoyen.com
 ::1         proddoyen.com
 127.0.0.1   prodmp.ru
