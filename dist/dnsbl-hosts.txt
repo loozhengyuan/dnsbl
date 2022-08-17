@@ -7621,8 +7621,6 @@
 ::1         adv.mxmcdn.net
 127.0.0.1   adv.pilseta24.lv
 ::1         adv.pilseta24.lv
-127.0.0.1   adv.r7.com
-::1         adv.r7.com
 127.0.0.1   adv.sec.intl.miui.com
 ::1         adv.sec.intl.miui.com
 127.0.0.1   adv.sec.miui.com
@@ -9295,8 +9293,6 @@
 ::1         alcroconawa.com
 127.0.0.1   alcvid.com
 ::1         alcvid.com
-127.0.0.1   aldeaamputee.com
-::1         aldeaamputee.com
 127.0.0.1   aleaidass.site
 ::1         aleaidass.site
 127.0.0.1   aleailarm.com
@@ -17491,8 +17487,6 @@
 ::1         bumlam.com
 127.0.0.1   bummershindigeavesdropping.com
 ::1         bummershindigeavesdropping.com
-127.0.0.1   bummersrummagy.com
-::1         bummersrummagy.com
 127.0.0.1   bummilpatten.com
 ::1         bummilpatten.com
 127.0.0.1   bumq.com
@@ -58495,8 +58489,6 @@
 ::1         onvictinitor.com
 127.0.0.1   onxquxhoygaji.com
 ::1         onxquxhoygaji.com
-127.0.0.1   oo00.biz
-::1         oo00.biz
 127.0.0.1   oocdqgado.xyz
 ::1         oocdqgado.xyz
 127.0.0.1   oodrampi.com
@@ -58563,10 +58555,6 @@
 ::1         ooykew.cn
 127.0.0.1   oozyunmix.com
 ::1         oozyunmix.com
-127.0.0.1   op01.biz
-::1         op01.biz
-127.0.0.1   op02.biz
-::1         op02.biz
 127.0.0.1   opapxq.com
 ::1         opapxq.com
 127.0.0.1   opawyzoh.xyz
@@ -59719,14 +59707,10 @@
 ::1         paht.tech
 127.0.0.1   pahtag.tech
 ::1         pahtag.tech
-127.0.0.1   pahtef.tech
-::1         pahtef.tech
 127.0.0.1   pahtgq.tech
 ::1         pahtgq.tech
 127.0.0.1   pahthf.tech
 ::1         pahthf.tech
-127.0.0.1   pahtky.tech
-::1         pahtky.tech
 127.0.0.1   pahtwt.tech
 ::1         pahtwt.tech
 127.0.0.1   pahtzh.tech
@@ -70749,8 +70733,6 @@
 ::1         servertraffic.de
 127.0.0.1   servestats.com
 ::1         servestats.com
-127.0.0.1   servg1.net
-::1         servg1.net
 127.0.0.1   service-api.accesstrade.vn
 ::1         service-api.accesstrade.vn
 127.0.0.1   service.trustpid.com
@@ -89515,8 +89497,6 @@
 ::1         xlounge.ru
 127.0.0.1   xlow.xyz
 ::1         xlow.xyz
-127.0.0.1   xlrdr.com
-::1         xlrdr.com
 127.0.0.1   xlviiirdr.com
 ::1         xlviiirdr.com
 127.0.0.1   xlviirdr.com
