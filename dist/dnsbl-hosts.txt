@@ -37415,6 +37415,8 @@
 ::1         getadfinity.com
 127.0.0.1   getadjacent.com
 ::1         getadjacent.com
+127.0.0.1   getadmiral.com
+::1         getadmiral.com
 127.0.0.1   getadx.com
 ::1         getadx.com
 127.0.0.1   getaim.info
