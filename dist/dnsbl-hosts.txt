@@ -20215,6 +20215,8 @@
 ::1         cdn.maaw.io
 127.0.0.1   cdn.malokacha.club
 ::1         cdn.malokacha.club
+127.0.0.1   cdn.manga9.co
+::1         cdn.manga9.co
 127.0.0.1   cdn.marjmedya.com
 ::1         cdn.marjmedya.com
 127.0.0.1   cdn.mediatradecraft.com
@@ -20225,6 +20227,8 @@
 ::1         cdn.movieads.ru
 127.0.0.1   cdn.myadmessenger.com
 ::1         cdn.myadmessenger.com
+127.0.0.1   cdn.narutoon.com
+::1         cdn.narutoon.com
 127.0.0.1   cdn.neon.click
 ::1         cdn.neon.click
 127.0.0.1   cdn.optmn.cloud
@@ -53887,6 +53891,8 @@
 ::1         mail-ads.google.com
 127.0.0.1   mail.banklife.ru
 ::1         mail.banklife.ru
+127.0.0.1   mail.ezexfzek.com
+::1         mail.ezexfzek.com
 127.0.0.1   mailboxdoablebasically.com
 ::1         mailboxdoablebasically.com
 127.0.0.1   mailboxleadsphone.com
