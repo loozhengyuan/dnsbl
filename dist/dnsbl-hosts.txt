@@ -37941,6 +37941,8 @@
 ::1         gg1.mengchongzu.com
 127.0.0.1   gg86.pinggu.org
 ::1         gg86.pinggu.org
+127.0.0.1   gga.xhamster.com
+::1         gga.xhamster.com
 127.0.0.1   ggcode.2345.com
 ::1         ggcode.2345.com
 127.0.0.1   ggdm1.nhaidu.net
@@ -38671,8 +38673,6 @@
 ::1         go.vrvm.com
 127.0.0.1   go.xl.ua
 ::1         go.xl.ua
-127.0.0.1   go.xxxiijmp.com
-::1         go.xxxiijmp.com
 127.0.0.1   go.zdos.ru
 ::1         go.zdos.ru
 127.0.0.1   go1news.biz
@@ -52739,8 +52739,6 @@
 ::1         mail-ads.google.com
 127.0.0.1   mail.banklife.ru
 ::1         mail.banklife.ru
-127.0.0.1   mail.ezexfzek.com
-::1         mail.ezexfzek.com
 127.0.0.1   mailboxdoablebasically.com
 ::1         mailboxdoablebasically.com
 127.0.0.1   mailboxleadsphone.com
@@ -56551,8 +56549,6 @@
 ::1         my-ranking.de
 127.0.0.1   my-stats.info
 ::1         my-stats.info
-127.0.0.1   my.audmrk.com
-::1         my.audmrk.com
 127.0.0.1   my.electricbalance.com
 ::1         my.electricbalance.com
 127.0.0.1   my.golosplus.ru
@@ -86583,8 +86579,6 @@
 ::1         vacaneedasap.com
 127.0.0.1   vacationambulancekin.com
 ::1         vacationambulancekin.com
-127.0.0.1   vaccine.phee1oci.com
-::1         vaccine.phee1oci.com
 127.0.0.1   vacuomehautain.tech
 ::1         vacuomehautain.tech
 127.0.0.1   vacwrite.com
@@ -87647,8 +87641,6 @@
 ::1         virtuous-father.pro
 127.0.0.1   viruntek.ru
 ::1         viruntek.ru
-127.0.0.1   virus.newadsclicks.com
-::1         virus.newadsclicks.com
 127.0.0.1   visadd.com
 ::1         visadd.com
 127.0.0.1   visaexasperation.com
