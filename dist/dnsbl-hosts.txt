@@ -6901,8 +6901,6 @@
 ::1         ads-admin.hubs.vn
 127.0.0.1   ads-api.playfun.vn
 ::1         ads-api.playfun.vn
-127.0.0.1   ads-api.twitter.com
-::1         ads-api.twitter.com
 127.0.0.1   ads-backend.nhadatmoi.net
 ::1         ads-backend.nhadatmoi.net
 127.0.0.1   ads-bidder-api.twitter.com
