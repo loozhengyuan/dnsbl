@@ -24625,6 +24625,8 @@
 ::1         creative.leojmp.com
 127.0.0.1   creative.live.missav.com
 ::1         creative.live.missav.com
+127.0.0.1   creative.live.tktube.com
+::1         creative.live.tktube.com
 127.0.0.1   creative.live7mm.tv
 ::1         creative.live7mm.tv
 127.0.0.1   creative.prf.hn
@@ -57271,8 +57273,6 @@
 ::1         netszex.com
 127.0.0.1   nettube.top
 ::1         nettube.top
-127.0.0.1   netu.io
-::1         netu.io
 127.0.0.1   netund.com
 ::1         netund.com
 127.0.0.1   netupdater.info
