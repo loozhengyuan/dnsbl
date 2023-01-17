@@ -6477,8 +6477,6 @@
 ::1         admission.net
 127.0.0.1   admitad-connect.com
 ::1         admitad-connect.com
-127.0.0.1   admitad.com
-::1         admitad.com
 127.0.0.1   admitlead.ru
 ::1         admitlead.ru
 127.0.0.1   admittedfaults.com
