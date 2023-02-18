@@ -103,6 +103,8 @@
 ::1         04cbf4193b.com
 127.0.0.1   04jhgyt.com
 ::1         04jhgyt.com
+127.0.0.1   053h94.com
+::1         053h94.com
 127.0.0.1   053tyfg.com
 ::1         053tyfg.com
 127.0.0.1   056opui.com
@@ -8241,6 +8243,8 @@
 ::1         advanseads.com
 127.0.0.1   advant.ml
 ::1         advant.ml
+127.0.0.1   advantage.digitalsunray.com
+::1         advantage.digitalsunray.com
 127.0.0.1   advantageglobalmarketing.com
 ::1         advantageglobalmarketing.com
 127.0.0.1   advantageoutlayreeds.com
@@ -8639,6 +8643,10 @@
 ::1         adxcore.com
 127.0.0.1   adxcorp.kr
 ::1         adxcorp.kr
+127.0.0.1   adxfire.com
+::1         adxfire.com
+127.0.0.1   adxfire.in
+::1         adxfire.in
 127.0.0.1   adxgeeks.com
 ::1         adxgeeks.com
 127.0.0.1   adxion.com
@@ -12339,8 +12347,12 @@
 ::1         api.safegraph.com
 127.0.0.1   api.sdffwef11.com
 ::1         api.sdffwef11.com
+127.0.0.1   api.sec.intl.miui.com
+::1         api.sec.intl.miui.com
 127.0.0.1   api.sec.miui.com
 ::1         api.sec.miui.com
+127.0.0.1   api.setting.intl.miui.com
+::1         api.setting.intl.miui.com
 127.0.0.1   api.share.mob.com
 ::1         api.share.mob.com
 127.0.0.1   api.smbeat.jp
@@ -14001,6 +14013,8 @@
 ::1         auth.be.sec.miui.com
 127.0.0.1   auth.bz
 ::1         auth.bz
+127.0.0.1   authbe.sec.intl.miui.com
+::1         authbe.sec.intl.miui.com
 127.0.0.1   authordress.com
 ::1         authordress.com
 127.0.0.1   authorinsights.com
@@ -16063,6 +16077,8 @@
 ::1         beacon.toyota.co.jp
 127.0.0.1   beacon.tws.toyota.jp
 ::1         beacon.tws.toyota.jp
+127.0.0.1   beacon.unext.jp
+::1         beacon.unext.jp
 127.0.0.1   beacon.vertebrae-axis.com
 ::1         beacon.vertebrae-axis.com
 127.0.0.1   beacon.viewlift.com
@@ -16817,6 +16833,8 @@
 ::1         bet3000partners.com
 127.0.0.1   bet365affiliates.com
 ::1         bet365affiliates.com
+127.0.0.1   beta-log.anninhthudo.vn
+::1         beta-log.anninhthudo.vn
 127.0.0.1   beta-news.org
 ::1         beta-news.org
 127.0.0.1   beta.mediafort.ru
@@ -25669,6 +25687,8 @@
 ::1         cwmlm.com
 127.0.0.1   cwnfkbio.xyz
 ::1         cwnfkbio.xyz
+127.0.0.1   cwobgp.cn
+::1         cwobgp.cn
 127.0.0.1   cwpbohx.cn
 ::1         cwpbohx.cn
 127.0.0.1   cwphgqu.cn
@@ -27765,6 +27785,8 @@
 ::1         data.nexxt.com
 127.0.0.1   data.queryly.com
 ::1         data.queryly.com
+127.0.0.1   data.sec.intl.miui.com
+::1         data.sec.intl.miui.com
 127.0.0.1   data.sec.miui.com
 ::1         data.sec.miui.com
 127.0.0.1   data.waptime.cn
@@ -30805,6 +30827,8 @@
 ::1         dtc-v6t.com
 127.0.0.1   dtch.brunel.nl
 ::1         dtch.brunel.nl
+127.0.0.1   dtckvpc.cn
+::1         dtckvpc.cn
 127.0.0.1   dtcpdvnojquf.com
 ::1         dtcpdvnojquf.com
 127.0.0.1   dteakfzixo.com
@@ -32273,6 +32297,8 @@
 ::1         eigned.com
 127.0.0.1   eiinaq.xyz
 ::1         eiinaq.xyz
+127.0.0.1   eijriol.cn
+::1         eijriol.cn
 127.0.0.1   eikegolehem.com
 ::1         eikegolehem.com
 127.0.0.1   eincre.com
@@ -35817,6 +35843,8 @@
 ::1         flarebania.com
 127.0.0.1   flash-counter.com
 ::1         flash-counter.com
+127.0.0.1   flash.sec.intl.miui.com
+::1         flash.sec.intl.miui.com
 127.0.0.1   flashadengine.com
 ::1         flashadengine.com
 127.0.0.1   flashb.id
@@ -39417,6 +39445,8 @@
 ::1         gooods4you.com
 127.0.0.1   gooooodle.com
 ::1         gooooodle.com
+127.0.0.1   goopi.cyou
+::1         goopi.cyou
 127.0.0.1   goosebomb.com
 ::1         goosebomb.com
 127.0.0.1   goossb.com
@@ -39985,6 +40015,8 @@
 ::1         groupian.io
 127.0.0.1   groupiklan.com
 ::1         groupiklan.com
+127.0.0.1   groupstats.chat.zalo.me
+::1         groupstats.chat.zalo.me
 127.0.0.1   groupstats.event.zalo.me
 ::1         groupstats.event.zalo.me
 127.0.0.1   grovebrainwashtroubles.com
@@ -51429,8 +51461,6 @@
 ::1         log-api.pangolin-sdk-toutiao.com
 127.0.0.1   log-collector.shopee.vn
 ::1         log-collector.shopee.vn
-127.0.0.1   log-giaoducthoidai.epicdn.me
-::1         log-giaoducthoidai.epicdn.me
 127.0.0.1   log-hl.snssdk.com
 ::1         log-hl.snssdk.com
 127.0.0.1   log-ird.outbrain.com
@@ -51485,10 +51515,14 @@
 ::1         log.avlyun.sec.intl.miui.com
 127.0.0.1   log.bandi.so
 ::1         log.bandi.so
+127.0.0.1   log.baocaobang.vn
+::1         log.baocaobang.vn
 127.0.0.1   log.baodatviet.vn
 ::1         log.baodatviet.vn
 127.0.0.1   log.baodauthau.vn
 ::1         log.baodauthau.vn
+127.0.0.1   log.baogialai.com.vn
+::1         log.baogialai.com.vn
 127.0.0.1   log.baomoi.com
 ::1         log.baomoi.com
 127.0.0.1   log.baonghean.vn
@@ -51947,6 +51981,8 @@
 ::1         logs-ott.fbox.fpt.vn
 127.0.0.1   logs-partners.coupang.com
 ::1         logs-partners.coupang.com
+127.0.0.1   logs.1cdn.vn
+::1         logs.1cdn.vn
 127.0.0.1   logs.51cto.com
 ::1         logs.51cto.com
 127.0.0.1   logs.amap.com
@@ -52425,6 +52461,8 @@
 ::1         lttxwrvhyzb.com
 127.0.0.1   lturerpartm.com
 ::1         lturerpartm.com
+127.0.0.1   ltwfd.xyz
+::1         ltwfd.xyz
 127.0.0.1   ltyabkihjsecl.xyz
 ::1         ltyabkihjsecl.xyz
 127.0.0.1   ltyscmtia.xyz
@@ -54109,6 +54147,8 @@
 ::1         medgoodfood.com
 127.0.0.1   media-active.ru
 ::1         media-active.ru
+127.0.0.1   media-ads.zaloapp.com
+::1         media-ads.zaloapp.com
 127.0.0.1   media-general.com
 ::1         media-general.com
 127.0.0.1   media-guides.de
@@ -54425,6 +54465,8 @@
 ::1         mehebborc.com
 127.0.0.1   meibiisheng.com
 ::1         meibiisheng.com
+127.0.0.1   meidd.cyou
+::1         meidd.cyou
 127.0.0.1   meihaoxiangwang.com
 ::1         meihaoxiangwang.com
 127.0.0.1   meikdein.xyz
@@ -55447,6 +55489,8 @@
 ::1         mktoresp.com
 127.0.0.1   ml-attr.com
 ::1         ml-attr.com
+127.0.0.1   ml-sys.xyz
+::1         ml-sys.xyz
 127.0.0.1   ml0z14azlflr.com
 ::1         ml0z14azlflr.com
 127.0.0.1   ml314.com
@@ -56827,6 +56871,8 @@
 ::1         murzimarab.tech
 127.0.0.1   musan.love
 ::1         musan.love
+127.0.0.1   musdga.xyz
+::1         musdga.xyz
 127.0.0.1   mushesarrear.com
 ::1         mushesarrear.com
 127.0.0.1   music-home.info
@@ -59461,6 +59507,8 @@
 ::1         nutritionrumblelocus.com
 127.0.0.1   nuttyorganization.com
 ::1         nuttyorganization.com
+127.0.0.1   nuubi.cyou
+::1         nuubi.cyou
 127.0.0.1   nuumitgoobli.com
 ::1         nuumitgoobli.com
 127.0.0.1   nuvzuha.com
@@ -61175,6 +61223,8 @@
 ::1         oqsujyxbsl.xyz
 127.0.0.1   oqwrba.com
 ::1         oqwrba.com
+127.0.0.1   oqxep.cn
+::1         oqxep.cn
 127.0.0.1   oracleinfinity.io
 ::1         oracleinfinity.io
 127.0.0.1   orahmaggi.xyz
@@ -65993,6 +66043,8 @@
 ::1         promotion.haravan.com
 127.0.0.1   promotionad.nvcam.net
 ::1         promotionad.nvcam.net
+127.0.0.1   promotionbar.sapoapps.vn
+::1         promotionbar.sapoapps.vn
 127.0.0.1   promotioncamp.com
 ::1         promotioncamp.com
 127.0.0.1   promotionengine.com
@@ -71879,6 +71931,8 @@
 ::1         rztrkr.com
 127.0.0.1   rzviy.com
 ::1         rzviy.com
+127.0.0.1   rzxov.cn
+::1         rzxov.cn
 127.0.0.1   s-adx.op-mobile.opera.com
 ::1         s-adx.op-mobile.opera.com
 127.0.0.1   s-adzone.com
@@ -73527,12 +73581,8 @@
 ::1         sentphysically.com
 127.0.0.1   sentrapromosi.com
 ::1         sentrapromosi.com
-127.0.0.1   sentry-mini.zalo.me
-::1         sentry-mini.zalo.me
 127.0.0.1   sentry-new.divar.ir
 ::1         sentry-new.divar.ir
-127.0.0.1   sentry-track.vietnamworks.com
-::1         sentry-track.vietnamworks.com
 127.0.0.1   sentry.arc.io
 ::1         sentry.arc.io
 127.0.0.1   sentry.cafebazaar.org
@@ -77565,6 +77615,8 @@
 ::1         stat.php-d.com
 127.0.0.1   stat.pl
 ::1         stat.pl
+127.0.0.1   stat.play.zing.vn
+::1         stat.play.zing.vn
 127.0.0.1   stat.radar.imgsmail.ru
 ::1         stat.radar.imgsmail.ru
 127.0.0.1   stat.rare.ru
@@ -78013,6 +78065,8 @@
 ::1         stats.kaltura.com
 127.0.0.1   stats.ksearchnet.com
 ::1         stats.ksearchnet.com
+127.0.0.1   stats.lab.zalo.ai
+::1         stats.lab.zalo.ai
 127.0.0.1   stats.landingi.com
 ::1         stats.landingi.com
 127.0.0.1   stats.lotlinx.com
@@ -78123,6 +78177,8 @@
 ::1         stats.slideshare.net
 127.0.0.1   stats.someecards.com
 ::1         stats.someecards.com
+127.0.0.1   stats.stg.zaloapp.com
+::1         stats.stg.zaloapp.com
 127.0.0.1   stats.storify.com
 ::1         stats.storify.com
 127.0.0.1   stats.streamhub.io
@@ -78257,6 +78313,10 @@
 ::1         statsbox.nl
 127.0.0.1   statscol.pond5.com
 ::1         statscol.pond5.com
+127.0.0.1   statscollector-1.agora.io
+::1         statscollector-1.agora.io
+127.0.0.1   statscollector.sd-rtn.com
+::1         statscollector.sd-rtn.com
 127.0.0.1   statsd.zmags.com
 ::1         statsd.zmags.com
 127.0.0.1   statsevent.com
@@ -91943,6 +92003,8 @@
 ::1         wsbnk.com
 127.0.0.1   wschao.xyz
 ::1         wschao.xyz
+127.0.0.1   wsdof.xyz
+::1         wsdof.xyz
 127.0.0.1   wsfreshdn.gq
 ::1         wsfreshdn.gq
 127.0.0.1   wsgblw.com
@@ -92827,6 +92889,8 @@
 ::1         xinhuan.mobi
 127.0.0.1   xinju.cc
 ::1         xinju.cc
+127.0.0.1   xinllz.xyz
+::1         xinllz.xyz
 127.0.0.1   xinlongrubber.com
 ::1         xinlongrubber.com
 127.0.0.1   xinqiannv.com
