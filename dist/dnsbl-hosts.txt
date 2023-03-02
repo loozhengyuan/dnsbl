@@ -10867,6 +10867,8 @@
 ::1         ammankeyan.com
 127.0.0.1   ammunitionconsiderinstitution.com
 ::1         ammunitionconsiderinstitution.com
+127.0.0.1   ammunitionconsiderinstitution.compopup
+::1         ammunitionconsiderinstitution.compopup
 127.0.0.1   amnet.tw
 ::1         amnet.tw
 127.0.0.1   amnoctowlan.club
@@ -12725,8 +12727,6 @@
 ::1         appboycdn.com
 127.0.0.1   appcast.io
 ::1         appcast.io
-127.0.0.1   appcdn01.xyz
-::1         appcdn01.xyz
 127.0.0.1   appcdn02.xyz
 ::1         appcdn02.xyz
 127.0.0.1   appclick.co
