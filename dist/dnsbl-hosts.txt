@@ -51969,8 +51969,6 @@
 ::1         librateam.net
 127.0.0.1   librato-collector.genius.com
 ::1         librato-collector.genius.com
-127.0.0.1   librefutboltv.com
-::1         librefutboltv.com
 127.0.0.1   libring.com
 ::1         libring.com
 127.0.0.1   libs.aseads.com
