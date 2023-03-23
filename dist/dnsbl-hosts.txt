@@ -2493,6 +2493,8 @@
 ::1         65432.shop
 127.0.0.1   65688qp.com
 ::1         65688qp.com
+127.0.0.1   658bbb.us
+::1         658bbb.us
 127.0.0.1   6598kn9gpf.ru
 ::1         6598kn9gpf.ru
 127.0.0.1   65fsgsv.com
@@ -4027,6 +4029,8 @@
 ::1         aamsitecertifier.com
 127.0.0.1   aan.amazon.com
 ::1         aan.amazon.com
+127.0.0.1   aanetwork.vn
+::1         aanetwork.vn
 127.0.0.1   aanqylta.com
 ::1         aanqylta.com
 127.0.0.1   aapsis.com
@@ -6973,6 +6977,8 @@
 ::1         ads-partners.coupang.com
 127.0.0.1   ads-pixiv.net
 ::1         ads-pixiv.net
+127.0.0.1   ads-server.mxplay.com
+::1         ads-server.mxplay.com
 127.0.0.1   ads-thanhnien-vn.cdn.ampproject.org
 ::1         ads-thanhnien-vn.cdn.ampproject.org
 127.0.0.1   ads-trk.vidible.tv
@@ -9441,6 +9447,8 @@
 ::1         agukalty.net
 127.0.0.1   agurgeed.net
 ::1         agurgeed.net
+127.0.0.1   aguterl.cn
+::1         aguterl.cn
 127.0.0.1   ah.pricegrabber.com
 ::1         ah.pricegrabber.com
 127.0.0.1   ah58tc.com
@@ -11333,6 +11341,8 @@
 ::1         analytics.logsss.com
 127.0.0.1   analytics.loop-cloud.de
 ::1         analytics.loop-cloud.de
+127.0.0.1   analytics.lunaweb.cloud
+::1         analytics.lunaweb.cloud
 127.0.0.1   analytics.m7g.twitch.tv
 ::1         analytics.m7g.twitch.tv
 127.0.0.1   analytics.ma.tune.com
@@ -13051,6 +13061,8 @@
 ::1         arkinhechershedt.xyz
 127.0.0.1   arkn81.com
 ::1         arkn81.com
+127.0.0.1   arks.red
+::1         arks.red
 127.0.0.1   arlbper.cn
 ::1         arlbper.cn
 127.0.0.1   arlime.com
@@ -15201,6 +15213,8 @@
 ::1         baiduccdn1.com
 127.0.0.1   baiducom.bj.bcebos.com
 ::1         baiducom.bj.bcebos.com
+127.0.0.1   baidufkjnvbdsn.com
+::1         baidufkjnvbdsn.com
 127.0.0.1   baiduhaoba.com
 ::1         baiduhaoba.com
 127.0.0.1   baidujavascript.com
@@ -17293,6 +17307,8 @@
 ::1         bhcwr.cn
 127.0.0.1   bhduan.xyz
 ::1         bhduan.xyz
+127.0.0.1   bhhkmzn.cn
+::1         bhhkmzn.cn
 127.0.0.1   bhicxb.cn
 ::1         bhicxb.cn
 127.0.0.1   bhj691.com
@@ -17525,6 +17541,8 @@
 ::1         bijitsoa.com
 127.0.0.1   bijwawr.com
 ::1         bijwawr.com
+127.0.0.1   bikannovel.com
+::1         bikannovel.com
 127.0.0.1   bikrurda.net
 ::1         bikrurda.net
 127.0.0.1   bildirim.eu
@@ -21047,8 +21065,6 @@
 ::1         cdn.234doo.com
 127.0.0.1   cdn.88-f.net
 ::1         cdn.88-f.net
-127.0.0.1   cdn.aanetwork.vn
-::1         cdn.aanetwork.vn
 127.0.0.1   cdn.adbert.info
 ::1         cdn.adbert.info
 127.0.0.1   cdn.adfenix.com
@@ -23875,6 +23891,8 @@
 ::1         collector.prod.expedia.com
 127.0.0.1   collector.puhutv.com
 ::1         collector.puhutv.com
+127.0.0.1   collector.reelevant.com
+::1         collector.reelevant.com
 127.0.0.1   collector.retailcrm.pro
 ::1         collector.retailcrm.pro
 127.0.0.1   collector.rn.de
@@ -31245,6 +31263,8 @@
 ::1         dqhxczj.cn
 127.0.0.1   dqlgpnljfgmlqs.xyz
 ::1         dqlgpnljfgmlqs.xyz
+127.0.0.1   dqsrnfg.cn
+::1         dqsrnfg.cn
 127.0.0.1   dqv45r33u0ltv.cloudfront.net
 ::1         dqv45r33u0ltv.cloudfront.net
 127.0.0.1   dqzirj.xyz
@@ -37765,6 +37785,8 @@
 ::1         friendlybcs.pro
 127.0.0.1   friendlyduck.com
 ::1         friendlyduck.com
+127.0.0.1   friendlyfold.com
+::1         friendlyfold.com
 127.0.0.1   friendshipmale.com
 ::1         friendshipmale.com
 127.0.0.1   friendwool.com
@@ -38297,6 +38319,8 @@
 ::1         fzbkgni.cn
 127.0.0.1   fzckwij.cn
 ::1         fzckwij.cn
+127.0.0.1   fzf1.top
+::1         fzf1.top
 127.0.0.1   fzhxi.com
 ::1         fzhxi.com
 127.0.0.1   fzlnk.com
@@ -40001,6 +40025,8 @@
 ::1         gloansad.com
 127.0.0.1   gloaphoo.net
 ::1         gloaphoo.net
+127.0.0.1   global.ketchcdn.com
+::1         global.ketchcdn.com
 127.0.0.1   globaladmedia.com
 ::1         globaladmedia.com
 127.0.0.1   globaladmedia.net
@@ -42087,6 +42113,8 @@
 ::1         haokan3.cn
 127.0.0.1   haokoubei.top
 ::1         haokoubei.top
+127.0.0.1   haon.ltd
+::1         haon.ltd
 127.0.0.1   haop5wopa.icu
 ::1         haop5wopa.icu
 127.0.0.1   haosdhc.cn
@@ -44243,6 +44271,8 @@
 ::1         hubsaints.com
 127.0.0.1   hubturn.info
 ::1         hubturn.info
+127.0.0.1   hubty.network
+::1         hubty.network
 127.0.0.1   hubvisor.io
 ::1         hubvisor.io
 127.0.0.1   hubzozo.com
@@ -44581,6 +44611,8 @@
 ::1         hyhfsj.com
 127.0.0.1   hyjdz.cn
 ::1         hyjdz.cn
+127.0.0.1   hyk9.xyz
+::1         hyk9.xyz
 127.0.0.1   hykerewasn.xyz
 ::1         hykerewasn.xyz
 127.0.0.1   hykrrersrl.com
@@ -47967,6 +47999,8 @@
 ::1         jcecirohramv.com
 127.0.0.1   jcelyj.com
 ::1         jcelyj.com
+127.0.0.1   jched3.com
+::1         jched3.com
 127.0.0.1   jchgcipyywszqt.com
 ::1         jchgcipyywszqt.com
 127.0.0.1   jckdusa.cn
@@ -48683,6 +48717,8 @@
 ::1         journalforum.org
 127.0.0.1   journalismdived.com
 ::1         journalismdived.com
+127.0.0.1   journera.com
+::1         journera.com
 127.0.0.1   journey.unicef.de
 ::1         journey.unicef.de
 127.0.0.1   journity.com
@@ -49257,6 +49293,8 @@
 ::1         jwpltx.com
 127.0.0.1   jwt8e5vzc1.com
 ::1         jwt8e5vzc1.com
+127.0.0.1   jwujvjo.cn
+::1         jwujvjo.cn
 127.0.0.1   jwuyjehlbndrkd.com
 ::1         jwuyjehlbndrkd.com
 127.0.0.1   jwycmuozlpu.com
@@ -51285,6 +51323,8 @@
 ::1         laifu365.com
 127.0.0.1   laim.tv
 ::1         laim.tv
+127.0.0.1   laimroll.ru
+::1         laimroll.ru
 127.0.0.1   lainaumi.com
 ::1         lainaumi.com
 127.0.0.1   lainmpatoio.xyz
@@ -55021,6 +55061,8 @@
 ::1         malkgpottfolik.xyz
 127.0.0.1   mall0.qiyipic.com
 ::1         mall0.qiyipic.com
+127.0.0.1   malong.plus
+::1         malong.plus
 127.0.0.1   mals.shop
 ::1         mals.shop
 127.0.0.1   malthashematid.com
@@ -58815,6 +58857,8 @@
 ::1         mx03.phorm.com
 127.0.0.1   mxapis.com
 ::1         mxapis.com
+127.0.0.1   mxaserver.mxplay.com
+::1         mxaserver.mxplay.com
 127.0.0.1   mxauevhape.xyz
 ::1         mxauevhape.xyz
 127.0.0.1   mxcdn.net
@@ -65115,6 +65159,8 @@
 ::1         pctlwm.com
 127.0.0.1   pctsrv.com
 ::1         pctsrv.com
+127.0.0.1   pcxtvr.xyz
+::1         pcxtvr.xyz
 127.0.0.1   pd-news.com
 ::1         pd-news.com
 127.0.0.1   pdayyocpnvh.ru
@@ -68143,6 +68189,8 @@
 ::1         procroanalytics.com
 127.0.0.1   procuredawestruckpoint.com
 ::1         procuredawestruckpoint.com
+127.0.0.1   prod-analytics.royal.drmgms.com
+::1         prod-analytics.royal.drmgms.com
 127.0.0.1   prod-clientlog.fastly.newssuite.sinfony.ne.jp
 ::1         prod-clientlog.fastly.newssuite.sinfony.ne.jp
 127.0.0.1   prod-collector.bigbasket.com
@@ -68243,6 +68291,8 @@
 ::1         profitraf.ru
 127.0.0.1   profitrumour.com
 ::1         profitrumour.com
+127.0.0.1   profitsfly.com
+::1         profitsfly.com
 127.0.0.1   profitshare.ro
 ::1         profitshare.ro
 127.0.0.1   profsitu.com
@@ -68753,6 +68803,8 @@
 ::1         psurotiso.pro
 127.0.0.1   psvgnczo.com
 ::1         psvgnczo.com
+127.0.0.1   psvvzb.xyz
+::1         psvvzb.xyz
 127.0.0.1   psxxbhheqxoy.com
 ::1         psxxbhheqxoy.com
 127.0.0.1   psychaltuxes.com
@@ -70353,6 +70405,8 @@
 ::1         qq86tbqodk.ru
 127.0.0.1   qqbook.ru
 ::1         qqbook.ru
+127.0.0.1   qqcdnpictest.mxplay.com
+::1         qqcdnpictest.mxplay.com
 127.0.0.1   qqhuhu.com
 ::1         qqhuhu.com
 127.0.0.1   qqjar.ru
@@ -71297,6 +71351,8 @@
 ::1         rbthre.work
 127.0.0.1   rbtwo.bid
 ::1         rbtwo.bid
+127.0.0.1   rbvi.top
+::1         rbvi.top
 127.0.0.1   rbywg.com
 ::1         rbywg.com
 127.0.0.1   rc.dxsvr.com
@@ -72273,6 +72329,8 @@
 ::1         renaissancewednesday.com
 127.0.0.1   renaissanto.com
 ::1         renaissanto.com
+127.0.0.1   renameking.com
+::1         renameking.com
 127.0.0.1   renderscreech.com
 ::1         renderscreech.com
 127.0.0.1   rendfy.com
@@ -72367,6 +72425,8 @@
 ::1         report-uri.io
 127.0.0.1   report.23video.com
 ::1         report.23video.com
+127.0.0.1   report.iciba.com
+::1         report.iciba.com
 127.0.0.1   report.mediahub.vn
 ::1         report.mediahub.vn
 127.0.0.1   report.meituan.com
@@ -75523,6 +75583,8 @@
 ::1         scriptil.com
 127.0.0.1   scripts-ads.s3.ir-thr-at1.arvanstorage.com
 ::1         scripts-ads.s3.ir-thr-at1.arvanstorage.com
+127.0.0.1   scripts-repo.reelevant.com
+::1         scripts-repo.reelevant.com
 127.0.0.1   scripts.psyma.com
 ::1         scripts.psyma.com
 127.0.0.1   scripts.static-od.com
@@ -76693,6 +76755,8 @@
 ::1         shangguan.fun
 127.0.0.1   shanghuitianxia.cn
 ::1         shanghuitianxia.cn
+127.0.0.1   shangjinxin.ltd
+::1         shangjinxin.ltd
 127.0.0.1   shangke.asia
 ::1         shangke.asia
 127.0.0.1   shangrongxin.cn
@@ -81505,6 +81569,8 @@
 ::1         straticjustice.com
 127.0.0.1   strawberriescane.com
 ::1         strawberriescane.com
+127.0.0.1   strced.xyz
+::1         strced.xyz
 127.0.0.1   streakattempt.com
 ::1         streakattempt.com
 127.0.0.1   stream-all.com
@@ -89275,6 +89341,8 @@
 ::1         uigruwtql.com
 127.0.0.1   uii.io
 ::1         uii.io
+127.0.0.1   uiiwzyv.cn
+::1         uiiwzyv.cn
 127.0.0.1   uimserv.net
 ::1         uimserv.net
 127.0.0.1   uingroundhe.com
@@ -89433,6 +89501,8 @@
 ::1         um-public-panel-prod.s3.amazonaws.com
 127.0.0.1   um5xcgngmart.xyz
 ::1         um5xcgngmart.xyz
+127.0.0.1   umami.is
+::1         umami.is
 127.0.0.1   umami.nordiskehandel.cloud
 ::1         umami.nordiskehandel.cloud
 127.0.0.1   umbel.com
@@ -90929,6 +90999,8 @@
 ::1         vashebiwa.pro
 127.0.0.1   vashoot.com
 ::1         vashoot.com
+127.0.0.1   vasia.bluentated.racing
+::1         vasia.bluentated.racing
 127.0.0.1   vaside.com
 ::1         vaside.com
 127.0.0.1   vaspo30.com
@@ -92867,6 +92939,8 @@
 ::1         waiyuyou.com
 127.0.0.1   wakefulcook.com
 ::1         wakefulcook.com
+127.0.0.1   waking.pro
+::1         waking.pro
 127.0.0.1   wakiupswacken.com
 ::1         wakiupswacken.com
 127.0.0.1   walkamorous.com
@@ -93249,6 +93323,8 @@
 ::1         wealop.com
 127.0.0.1   weaponsort.club
 ::1         weaponsort.club
+127.0.0.1   weaquc.xyz
+::1         weaquc.xyz
 127.0.0.1   wearbasin.com
 ::1         wearbasin.com
 127.0.0.1   wearetopple.com
@@ -94737,6 +94813,8 @@
 ::1         woazowup.net
 127.0.0.1   wocexaa.cn
 ::1         wocexaa.cn
+127.0.0.1   wocoqs.xyz
+::1         wocoqs.xyz
 127.0.0.1   wodenongtian.com
 ::1         wodenongtian.com
 127.0.0.1   wodeshougong.com
@@ -95737,6 +95815,8 @@
 ::1         xafc.xyz
 127.0.0.1   xafengzhij.xyz
 ::1         xafengzhij.xyz
+127.0.0.1   xageias.cn
+::1         xageias.cn
 127.0.0.1   xameleonads.com
 ::1         xameleonads.com
 127.0.0.1   xanawet.com
@@ -95747,8 +95827,6 @@
 ::1         xaogi.com
 127.0.0.1   xapads.com
 ::1         xapads.com
-127.0.0.1   xapi.ozon.ru
-::1         xapi.ozon.ru
 127.0.0.1   xarisma.ru
 ::1         xarisma.ru
 127.0.0.1   xarqnuelxtvajgp.xyz
@@ -97275,6 +97353,8 @@
 ::1         yibivacaji.com
 127.0.0.1   yicha.jp
 ::1         yicha.jp
+127.0.0.1   yidbyhersle.xyz
+::1         yidbyhersle.xyz
 127.0.0.1   yidded.com
 ::1         yidded.com
 127.0.0.1   yiddiquitejuk.com
