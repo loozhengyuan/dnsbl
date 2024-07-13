@@ -3297,8 +3297,6 @@
 ::1         9af022123c.com
 127.0.0.1   9analytics.live
 ::1         9analytics.live
-127.0.0.1   9bbbabcb26.com
-::1         9bbbabcb26.com
 127.0.0.1   9bc639da.xyz
 ::1         9bc639da.xyz
 127.0.0.1   9bf9309f6f.com
@@ -9611,8 +9609,6 @@
 ::1         affistats.com
 127.0.0.1   affiz.net
 ::1         affiz.net
-127.0.0.1   affjamohw.com
-::1         affjamohw.com
 127.0.0.1   afflat3a1.com
 ::1         afflat3a1.com
 127.0.0.1   afflat3d2.com
@@ -50095,6 +50091,8 @@
 ::1         gammabendlet.website
 127.0.0.1   gammadsp.com
 ::1         gammadsp.com
+127.0.0.1   gammae.com
+::1         gammae.com
 127.0.0.1   gammamaximum.com
 ::1         gammamaximum.com
 127.0.0.1   gammamkt.com
@@ -67181,8 +67179,6 @@
 ::1         kphcrjth.xyz
 127.0.0.1   kphnncpx.xyz
 ::1         kphnncpx.xyz
-127.0.0.1   kpjuilkzfi.com
-::1         kpjuilkzfi.com
 127.0.0.1   kpmose.xyz
 ::1         kpmose.xyz
 127.0.0.1   kpougoavtxkrew.com
@@ -84393,8 +84389,6 @@
 ::1         ojooo.com
 127.0.0.1   ojpem.com
 ::1         ojpem.com
-127.0.0.1   ojsxtysilofk.com
-::1         ojsxtysilofk.com
 127.0.0.1   ojtarsdukk.com
 ::1         ojtarsdukk.com
 127.0.0.1   ojtatygrl.xyz
@@ -132221,8 +132215,6 @@
 ::1         wnp.com
 127.0.0.1   wnrusisedprivatedq.info
 ::1         wnrusisedprivatedq.info
-127.0.0.1   wnrvrwabnxa.com
-::1         wnrvrwabnxa.com
 127.0.0.1   wnt-s0me-push.net
 ::1         wnt-s0me-push.net
 127.0.0.1   wnt-some-psh.net
