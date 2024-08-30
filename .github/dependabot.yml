@@ -1,0 +1,33 @@
+# Configuration file for GitHub Dependabot
+# https://docs.github.com/en/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
+
+version: 2
+updates:
+  - package-ecosystem: 'github-actions'
+    directory: '/'
+    schedule:
+      interval: 'weekly'
+      day: 'saturday'
+      time: '09:00'
+      timezone: 'Asia/Singapore'
+    groups:
+      gha:
+        patterns:
+          - '*'
+        update-types:
+          - 'minor'
+          - 'patch'
+  - package-ecosystem: "gomod"
+    directory: '/'
+    schedule:
+      interval: 'weekly'
+      day: 'saturday'
+      time: '09:00'
+      timezone: 'Asia/Singapore'
+    groups:
+      go:
+        patterns:
+          - '*'
+        update-types:
+          - 'minor'
+          - 'patch'
