@@ -4,31 +4,27 @@ on:
   schedule:
     - cron: "0 * * * *"
 
+defaults:
+  run:
+    # NOTE: Default option does not include `-o pipefail` as documented
+    # unless explicitly specifying the `bash` shell.
+    # https://github.com/actions/runner/issues/353
+    shell: bash
+    
 jobs:
   build:
-    name: Build blocklist
     runs-on: ubuntu-latest
     timeout-minutes: 3
 
     steps:
       - name: Checkout branch
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4.1.7
         with:
           # NOTE: Always checkout from default branch
           ref: main
 
       - name: Set up Go
-        uses: actions/setup-go@v2
-        with:
-          go-version: 1.17
-
-      - name: Cache Go modules
-        uses: actions/cache@v2
-        with:
-          path: ~/go/pkg/mod
-          key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
-          restore-keys: |
-            ${{ runner.os }}-go-
+        uses: actions/setup-go@v5.0.2
 
       - name: Install blt
         run: |
