@@ -1,6 +1,9 @@
 name: build
 
 on:
+  pull_request:
+    branches:
+      - main
   schedule:
     - cron: "0 * * * *"
 
@@ -19,9 +22,6 @@ jobs:
     steps:
       - name: Checkout branch
         uses: actions/checkout@v4.1.7
-        with:
-          # NOTE: Always checkout from default branch
-          ref: main
 
       - name: Set up Go
         uses: actions/setup-go@v5.0.2
@@ -64,5 +64,7 @@ jobs:
           git diff-index --quiet --cached HEAD || git commit -m "chore: rebuild blocklist"
 
       - name: Push commit
+        # NOTE: We only want changes to updated on the scheduled runs
+        if: ${{ github.event_name == 'schedule' }}
         run: |
           git push
