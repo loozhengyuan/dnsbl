@@ -37,10 +37,12 @@ rulesets:
       - type: deletion          # Block branch deletion
       - type: non_fast_forward  # Block force-push
       - type: required_linear_history
-      - type: required_signatures
+      # FIXME: Not enforceable for CI-pushed commits
+      # - type: required_signatures
   - name: collaborators
     target: branch
-    enforcement: active
+    # FIXME: Not enforceable for CI-pushed commits
+    enforcement: disabled
     bypass_actors:
       - actor_type: OrganizationAdmin
         actor_id: 1
