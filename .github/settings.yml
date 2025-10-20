@@ -43,9 +43,7 @@ rulesets:
   # restriction for PRs.
   - name: require-signed-commits
     target: branch
-    # NOTE: Must be disabled to allow unsigned commits from
-    # GitHub Actions to be pushed.
-    enforcement: disabled
+    enforcement: disabled # NOTE: Must be disabled to allow bot commits to be pushed/merged
     bypass_actors:
       - actor_id: 5
         actor_type: RepositoryRole
@@ -59,9 +57,7 @@ rulesets:
       - type: required_signatures
   - name: require-status-checks
     target: branch
-    # NOTE: Must be disabled to allow unsigned commits from
-    # GitHub Actions to be pushed.
-    enforcement: disabled
+    enforcement: disabled # NOTE: Must be disabled to allow bot commits to be pushed/merged
     bypass_actors:
       - actor_id: 5
         actor_type: RepositoryRole
